@@ -4,8 +4,8 @@ import pandas as pd
 
 
 def main():
-    df = pd.read_excel(r'data/APRA-MySuper-Product-Heatmap.xlsx',
-                       sheet_name='Heatmap')
+    df = pd.read_excel(r'data/heatmap2.0.xlsx',
+                       sheet_name='singleStrategy1.0')
     print(df)
 
 

@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "env/bin/python",
+    "python.pythonPath": "C:\\Users\\Timothy Wu\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
     "python.linting.enabled": true,
     "python.linting.pylintEnabled": true,
     "editor.wordWrapColumn": 120,
